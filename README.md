@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav31052" alt="gaurav31052" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Paid MERN Stack project**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gaurav-kumar.netlify.app/](https://portfolio-gaurav-kumar.netlify.app/)
