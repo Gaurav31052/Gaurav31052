@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gauravkumar31052@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rXhc4j7OQLtegwSCV9cheMwEuIubwO0J/view?usp=drive_link](https://drive.google.com/file/d/1rXhc4j7OQLtegwSCV9cheMwEuIubwO0J/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14FnnI7aSePs4vccnxGwqik27HTY6gtsz/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
